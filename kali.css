@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap');
+
+h1{
+    color: red;
+}
+
+h2 {
+    color:gold;
+}
+
+
+img{
+    border-radius: 50%;
+}
+
+
+h1{
+    font-family: Roboto;
+}
